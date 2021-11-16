@@ -2,7 +2,7 @@
 
 :page_facing_up:Description:
 
-- A pomodoro clock where we can set the work time and the break time. When "play" is pressed the countdwon of the work time starts, when this finishes, the countdown of the break starts. It's a cycle. Everytime a countdown reaches 00:00, it beeps. We can play, pause, stop, increase and drecrease the time.
+- A pomodoro clock where we can set the work time and the break time. When "play" is pressed the countdwon of the work time starts, when this finishes, the countdown of the break starts. It's a cycle. Everytime a countdown reaches 00:00, it beeps. We can play, pause, stop, increase and decrease the time.
 
 :wrench:Technologies used:
 
